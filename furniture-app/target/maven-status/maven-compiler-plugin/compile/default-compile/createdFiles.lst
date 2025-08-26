@@ -1,0 +1,6 @@
+com\example\model\Bed.class
+com\example\FurnitureApp.class
+com\example\util\CSVParser.class
+com\example\dao\DatabaseManager.class
+com\example\model\Sofa.class
+com\example\model\Furniture.class
